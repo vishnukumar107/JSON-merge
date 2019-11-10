@@ -1,0 +1,39 @@
+{
+  "employees": [
+    {
+      "name": "Alexis Sanchez",
+      "club": "Manchester United",
+      "id": 1
+    },
+    {
+      "name": "Robin van Persie",
+      "club": "Feyenoord",
+      "designation": "SDE 1"
+    },
+    {
+      "name": "Nicolas Pepe",
+      "club": "Arsenal",
+      "id": 2
+    },
+    {
+      "name": "Gonzalo Higuain",
+      "club": "Napoli",
+      "id": 3
+    },
+    {
+      "name": "Sunil Chettri",
+      "club": "Bengaluru FC",
+      "designation": "technie"
+    },
+    {
+      "name": "messi",
+      "club": "barcelona",
+      "id": 4
+    },
+    {
+      "name": "ronaldo",
+      "club": "juvendus",
+      "designation": "manager"
+    }
+  ]
+}
