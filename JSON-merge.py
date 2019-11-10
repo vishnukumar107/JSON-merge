@@ -11,7 +11,6 @@ def getJSON(findPathName):
 
 #funcion to merge the JSON array
 def mergefunc(m1,m2):
-    m={}
     for i,k in m1.items():
         for j,l in m2.items():
             if(i==j):
